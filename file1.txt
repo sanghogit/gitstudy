@@ -2,3 +2,4 @@ hello git
 second
 mybranch1: third - my branch
 mybranch1: fourch - my branch
+hotfix: some hotfix
